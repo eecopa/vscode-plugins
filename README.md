@@ -14,4 +14,4 @@
 - Prettier - Esben Petersen
 - Quokka.js - Wallaby.js
 - Vetur - Pine Wu
-
+- Remote WSL - Microsoft
